@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @param array $A
+ * @return int
+ */
+
 function solution($A): int
 {
     $len = count($A) - 1;
